@@ -1,0 +1,10 @@
+a = input("Enter your  first number:")
+b = input("Enter your  second number:")
+c = input("Enter your  third number:")
+d = input("Enter your  fourth number:")
+a = int(a)
+b = int(b)
+c = int(c)
+d = int(d)
+
+print("the sqaure is: ",a*b*c*d)
